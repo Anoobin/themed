@@ -4,7 +4,15 @@
 * @author ShadowDevilsAvenged
 * @version 2
 */
-
+/* Transparent Discord */
+:root {
+  --background-primary: rgba(0, 0, 0, .32);
+  --background-secondary: rgba(0, 0, 0, .64);
+  --background-secondary-alt: rgba(0, 0, 0, .64);
+  --background-tertiary: rgba(0, 0, 0, .64);
+  --background-tertiary-alt: rgba(0, 0, 0, .32);
+  --background-accent: rgba(0, 0, 0, .32);
+}
 .app-2CXKsg {
     background: url(https://images4.alphacoders.com/119/1193618.jpg) 100%/cover transparent
 }
